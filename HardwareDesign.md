@@ -1,0 +1,21 @@
+## Hardware Design Roadmap
+
+- Learn EDA Softwares
+    - KiCad (Recomended for Club activities)
+    - Altium
+    - Eagle
+- Voltage Regulator Circuit
+    - Voltage Regulators(L293d)
+    - Capacitors
+    - Terminals
+- L293d Motor Driver Circuit
+- L293d Motor Driver Shield For Multiple Motor
+- Schmitt Trigger Circuit
+- Buck/Boost Converter Circuit
+- Isolator Circuit
+    - Opto Coupler
+- Pneumatic Controller Circuit
+    - ULN2003
+- Signal Buffer Circuit 
+- Arduino Circuit
+- STM32 SMD Circuit 
