@@ -1,8 +1,8 @@
 ## Hardware Design Roadmap
 
 - Learn EDA Softwares
-    - KiCad (Recomended for Club activities)
-    - Altium
+    - [KiCad](https://www.kicad.org) (Recomended for Club activities)
+    - [Altium](https://education.altium.com/) (License and Tutorial available at link)
     - Eagle
 - Voltage Regulator Circuit
     - Voltage Regulators(L293d)
